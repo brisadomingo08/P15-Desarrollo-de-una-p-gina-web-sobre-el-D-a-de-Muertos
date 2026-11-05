@@ -1,1 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Símbolos y Gastronomía del Día de Muertos</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Día de Muertos en México </h1>
+        <p>Símbolos y gastronomía tradicional</p>
+    </header>
+
+    <nav>
+        <a href="#inicio">Inicio</a>
+        <a href="#simbolos">Símbolos</a>
+        <a href="#gastronomia">Gastronomía</a>
+    </nav>
+
+    <main>
+
+        <section id="inicio">
+            <h2>Una tradición llena de color y sabor</h2>
+
+            <p>
+                El Día de Muertos es una celebración mexicana
+                en la que recordamos con cariño a nuestros
+                seres queridos que ya fallecieron.
+                Sus símbolos y alimentos representan nuestras
+                tradiciones, cultura y recuerdos.
+            </p>
+        </section>
+
+        <section id="simbolos">
+
+            <h2>🌼 Símbolos tradicionales</h2>
+
+            <div class="contenedor">
+
+                <div class="tarjeta">
+                    <img src="imagenes/cempasuchil.jpg"
+                         alt="Flor de cempasúchil">
+
+                    <h3>Flor de cempasúchil</h3>
+
+                    <p>
+                        Su color naranja y su aroma ayudan
+                        a guiar a las almas hacia las ofrendas.
+                    </p>
+                </div>
+
+                <div class="tarjeta">
+                    <img src="imagenes/copal.jpg"
+                         alt="Copal">
+
+                    <h3>Copal</h3>
+
+                    <p>
+                        Es una resina aromática que se quema
+                        para purificar el ambiente de la ofrenda.
+                    </p>
+                </div>
+
+            </div>
+
+        </section>
+
+        <section id="gastronomia">
+
+            <h2>Gastronomía tradicional</h2>
+
+            <div class="contenedor">
+
+                <div class="tarjeta">
+                    <img src="imagenes/pan.jpg"
+                         alt="Pan de muerto">
+
+                    <h3>Pan de muerto</h3>
+
+                    <p>
+                        Es uno de los alimentos más representativos
+                        del Día de Muertos y se coloca en las
+                        ofrendas para recordar a los difuntos.
+                    </p>
+                </div>
+
+                <div class="tarjeta">
+                    <img src="imagenes/calaveritas.jpg"
+                         alt="Calaveritas de azúcar">
+
+                    <h3>Calaveritas de azúcar</h3>
+
+                    <p>
+                        Son dulces decorados con colores
+                        que representan la muerte de una
+                        manera alegre y tradicional.
+                    </p>
+                </div>
+
+                <div class="tarjeta">
+                    <img src="imagenes/tamales.jpg"
+                         alt="Tamales mexicanos">
+
+                    <h3>Tamales</h3>
+
+                    <p>
+                        Son un alimento tradicional mexicano
+                        que también puede formar parte de
+                        las ofrendas.
+                    </p>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>
+            Día de Muertos: una tradición que vive
+            en nuestros corazones.
+        </p>
+    </footer>
+
+</body>
+
+</html>
